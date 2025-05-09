@@ -15,13 +15,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RewelliOliveira.RewelliOliveira&"  />
 </div>
 
-###
-
-<h1 align="center">Opa, tudo bom? 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  Mais sobre mim</h3>
+<h3 align="left">Opa, tudo bom? 👋</h3>
 
 ###
 
@@ -62,7 +56,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julian-Cardoso&show_icons=true&theme=tokyonight&include_all_commits=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RewelliOliveira&show_icons=true&theme=tokyonight&include_all_commits=true"  />
 </div>
-
 ###
