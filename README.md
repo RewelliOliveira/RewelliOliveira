@@ -51,12 +51,12 @@
 
 ###
 
-<h3 align="left">🔥   Meus status :</h3>
+<h3 align="left">🔥 Meus status :</h3>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RewelliOliveira&show_icons=true&theme=tokyonight&include_all_commits=true" align="middle" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RewelliOliveira&layout=compact&theme=tokyonight" align="middle" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RewelliOliveira&show_icons=true&theme=tokyonight&include_all_commits=true"  />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RewelliOliveira&layout=compact&theme=tokyonight" />
-</div>
+
+
