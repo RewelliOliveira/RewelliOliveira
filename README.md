@@ -58,4 +58,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RewelliOliveira&show_icons=true&theme=tokyonight&include_all_commits=true"  />
 </div>
-###
