@@ -61,7 +61,7 @@
 ## 🤝 Entre em contato:
 
 <p>
-  <a href="https://www.linkedin.com/in/deboraviana3/" target="_blank">
+  <a href="https://www.linkedin.com/in/rewelli-oliveira-333639260/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn"/>
   </a>
   <a href="mailto:rewellixs@gmail.com">
