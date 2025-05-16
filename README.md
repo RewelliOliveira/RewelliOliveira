@@ -15,7 +15,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RewelliOliveira.RewelliOliveira&"  />
 </div>
 
-<h3 align="left">Opa, tudo bom? 👋</h3>
+<h1 align="left">Opa, tudo bom?  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
 
 ###
 
@@ -23,32 +23,31 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+**Linguagens e Tecnologias:**
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React">
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" title="TypeScript">
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=nest&theme=dark" title="Nest">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB">
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL">
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+**Utilidades:**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker">
+  <img src="https://skillicons.dev/icons?i=electron&theme=dark" title="Electron">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VSCode">
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" title="IntelliJ IDEA">
+</p>
 ###
 
 <h3 align="left">🔥 Meus status :</h3>
