@@ -29,14 +29,13 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React"/>
+  <img src="https://skillicons.dev/icons?i=next&theme=dark" title="NextJS"/>
   <img src="https://skillicons.dev/icons?i=typescript&theme=dark" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind"/>
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=nest&theme=dark" title="NestJS"/>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java"/>
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL"/>
 </p>
