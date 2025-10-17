@@ -15,7 +15,7 @@
 
 <p align="left">
   Meu nome é <strong>Rewelli Oliveira</strong><br>
-  (React | Next.js | Node.js | NestJS | HTML | CSS | Tailwind CSS | JavaScript | TypeScript | Git) 🚀<br><br>
+  (React | Next.js | TypeScript | JavaScript | HTML | CSS | Tailwind CSS | Node.Js | MongoDB | PostegreSQL ) 🚀<br><br>
 
   🎓 Estudante de Engenharia de Software na Universidade Federal do Ceará (UFC - Quixadá)<br>
   💻 Tenho 20 anos e comecei a programar em 2022. Estou focado em evoluir como desenvolvedor Full Stack, com ênfase em tecnologias modernas de Front-end e Back-end 😎<br>
