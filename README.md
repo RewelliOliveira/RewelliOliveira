@@ -50,11 +50,11 @@
   <img src="https://skillicons.dev/icons?i=idea&theme=dark" title="IntelliJ IDEA"/>
 </p>
 
-## 🔥 Meus Status:
+## 📊 Resumo do Perfil:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RewelliOliveira&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RewelliOliveira&layout=compact&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RewelliOliveira&theme=tokyonight" alt="Perfil" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RewelliOliveira&theme=tokyonight" alt="Linguagens" />
 </p>
 
 ## 🤝 Entre em contato:
