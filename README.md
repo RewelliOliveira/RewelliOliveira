@@ -53,7 +53,6 @@
 ## 📊 Resumo do Perfil:
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RewelliOliveira&theme=tokyonight" alt="Perfil" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RewelliOliveira&theme=tokyonight" alt="Linguagens" />
 </p>
 
