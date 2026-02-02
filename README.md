@@ -30,7 +30,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React"/>
   <img src="https://skillicons.dev/icons?i=next&theme=dark" title="NextJS"/>
-  <img src="https://skillicons.dev/icons?i=node&theme=dark" title="NodeJS"/>
   <img src="https://skillicons.dev/icons?i=typescript&theme=dark" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML"/>
