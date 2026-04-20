@@ -3,68 +3,59 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RewelliOliveira.RewelliOliveira" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RewelliOliveira.RewelliOliveira&left_color=%23232634&right_color=%238caaee" />
 </div>
 
-<h1 align="left">
-  Opa, tudo bom? 
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px" />
-</h1>
+<br>
 
+<div align="center">
+  <h1>
+    Opa, tudo bom?
+    <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="28px" />
+  </h1>
+</div>
 
+<p align="center">
+  <samp>
+    Rewelli Oliveira · Full Stack Developer · UFC - Quixadá
+  </samp>
+</p>
 
-<p align="left">
-  Meu nome é <strong>Rewelli Oliveira</strong><br>
-  (React | Next.js | TypeScript | JavaScript | HTML | CSS | Tailwind CSS | Node.Js | MongoDB | PostegreSQL ) 🚀<br><br>
+<br>
 
-  🎓 Estudante de Engenharia de Software na Universidade Federal do Ceará (UFC - Quixadá)<br>
-  💻 Tenho 20 anos e comecei a programar em 2022. Estou focado em evoluir como desenvolvedor Full Stack, com ênfase em tecnologias modernas de Front-end e Back-end 😎<br>
-  📂 Confira alguns dos meus projetos pessoais 😃<br>
-  ⚽ Meus hobbies incluem jogar vôlei, assistir futebol e ver filmes no tempo livre
+```yaml
+name: Rewelli Oliveira
+located_in: Ceará, Brasil
+education: Engenharia de Software — UFC (Quixadá)
+coding_since: 2022
+focus: Full Stack com ênfase em Front-end
+hobbies: ["Vôlei", "Futebol", "Filmes"]
+```
+
+<br>
+
+### Stack principal
+
+<p align="center"><strong>Back-end & Database</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,postgresql,mongodb&theme=dark" />
+</p>
+
+<p align="center"><strong>Front-end</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,javascript,html,css,tailwind&theme=dark" />
+</p>
+
+<p align="center"><strong>Ferramentas</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,figma,vscode,idea,git,github&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Linguagens e Tecnologias:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React"/>
-  <img src="https://skillicons.dev/icons?i=next&theme=dark" title="NextJS"/>
-  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS"/>
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind"/>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL"/>
-</p>
-
-## 🛠️ Utilitários:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=electron&theme=dark" title="Electron"/>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma"/>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VSCode"/>
-  <img src="https://skillicons.dev/icons?i=idea&theme=dark" title="IntelliJ IDEA"/>
-</p>
-
-## 📊 Resumo do Perfil:
+### Estatísticas
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RewelliOliveira&theme=tokyonight" alt="Linguagens" />
-</p>
-
-## 🤝 Entre em contato:
-
-<p>
-  <a href="https://www.linkedin.com/in/rewelli-oliveira-333639260/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn"/>
-  </a>
-  <a href="mailto:rewellixs@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/rewelli_dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" title="Instagram"/>
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RewelliOliveira&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RewelliOliveira&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" alt="Top languages" />
 </p>
