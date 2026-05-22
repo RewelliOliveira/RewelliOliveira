@@ -28,34 +28,5 @@ name: Rewelli Oliveira
 located_in: Ceará, Brasil
 education: Engenharia de Software — UFC (Quixadá)
 coding_since: 2022
-focus: Full Stack com ênfase em Front-end
+focus: Full Stack com ênfase em Front-end e Mobile
 hobbies: ["Vôlei", "Futebol", "Filmes"]
-```
-
-<br>
-
-### Stack principal
-
-<p align="center"><strong>Back-end & Database</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,postgresql,mongodb&theme=dark" />
-</p>
-
-<p align="center"><strong>Front-end</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,javascript,html,css,tailwind&theme=dark" />
-</p>
-
-<p align="center"><strong>Ferramentas</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,figma,vscode,idea,git,github&theme=dark" />
-</p>
-
----
-
-### Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RewelliOliveira&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RewelliOliveira&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" alt="Top languages" />
-</p>
