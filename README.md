@@ -24,7 +24,7 @@ name: Rewelli Oliveira
 located_in: Ceara, Brasil
 education: Engenharia de Software - UFC (Quixada)
 coding_since: 2022
-focus: Full Stack com enfase em Front-end e Mobile
+focus: Full Stack developer, AI, Dados e Machine Learning
 hobbies: ["Volei", "Futebol", "Filmes"]
 ```
 
