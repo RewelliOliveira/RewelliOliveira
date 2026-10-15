@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-   Opa, tudo bom? <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="28px" />
+   Opa, tudo bom? 👾
 </h1>
 
 <p align="center">
@@ -35,14 +35,9 @@ hobbies: ["Volei", "Futebol", "Filmes"]
    <img src="https://skillicons.dev/icons?i=react,next,typescript,javascript,html,css,tailwind&theme=dark" />
 </p>
 
-<p align="center"><strong>Back-end</strong></p>
+<p align="center"><strong>Back-end & Banco de Dados</strong></p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
-</p>
-
-<p align="center"><strong>Banco de Dados</strong></p>
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mysql&theme=dark" />
    <img src="./assets/oracle.svg" height="48" alt="Oracle DB" title="Oracle DB" />
 </p>
 
@@ -62,12 +57,12 @@ hobbies: ["Volei", "Futebol", "Filmes"]
 
 <p align="center">
    <a href="mailto:rewellidev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-rewellidev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
    </a>
    <a href="https://wa.me/558894895443" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/WhatsApp-%2B55%2088%209489--5443-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    </a>
    <a href="https://www.linkedin.com/in/reulixs" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-reulixs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 </p>
