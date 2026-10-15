@@ -30,19 +30,30 @@ hobbies: ["Volei", "Futebol", "Filmes"]
 
 ## Stack principal
 
-<p align="center"><strong>Back-end & Database</strong></p>
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,postgresql,mongodb,python&theme=dark" />
-</p>
-
-<p align="center"><strong>Front-end & Mobile</strong></p>
+<p align="center"><strong>Front-end</strong></p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=react,next,typescript,javascript,html,css,tailwind&theme=dark" />
 </p>
 
-<p align="center"><strong>Ferramentas</strong></p>
+<p align="center"><strong>Back-end</strong></p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=docker,figma,vscode,idea,git,github&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
+</p>
+
+<p align="center"><strong>Banco de Dados</strong></p>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
+   <img src="./assets/oracle.svg" height="48" alt="Oracle DB" title="Oracle DB" />
+</p>
+
+<p align="center"><strong>Inteligência Artificial</strong></p>
+<p align="center">
+   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+   <img src="https://img.shields.io/badge/RAG-0ea5e9?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
 </p>
 
 ---
